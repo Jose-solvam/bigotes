@@ -15,4 +15,5 @@ Mi página sobre bigotes famosos
 - **Vistas en vivo**
 - Modo pantalla completa
 - Multiplataforma
+- Multitarea
 
